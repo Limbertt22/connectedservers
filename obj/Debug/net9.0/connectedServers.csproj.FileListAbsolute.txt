@@ -1,0 +1,15 @@
+C:\Users\DELL\tuto-vscode\connectedServers\bin\Debug\net9.0\connectedServers.exe
+C:\Users\DELL\tuto-vscode\connectedServers\bin\Debug\net9.0\connectedServers.deps.json
+C:\Users\DELL\tuto-vscode\connectedServers\bin\Debug\net9.0\connectedServers.runtimeconfig.json
+C:\Users\DELL\tuto-vscode\connectedServers\bin\Debug\net9.0\connectedServers.dll
+C:\Users\DELL\tuto-vscode\connectedServers\bin\Debug\net9.0\connectedServers.pdb
+C:\Users\DELL\tuto-vscode\connectedServers\obj\Debug\net9.0\connectedServers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\tuto-vscode\connectedServers\obj\Debug\net9.0\connectedServers.AssemblyInfoInputs.cache
+C:\Users\DELL\tuto-vscode\connectedServers\obj\Debug\net9.0\connectedServers.AssemblyInfo.cs
+C:\Users\DELL\tuto-vscode\connectedServers\obj\Debug\net9.0\connectedServers.csproj.CoreCompileInputs.cache
+C:\Users\DELL\tuto-vscode\connectedServers\obj\Debug\net9.0\connectedServers.sourcelink.json
+C:\Users\DELL\tuto-vscode\connectedServers\obj\Debug\net9.0\connectedServers.dll
+C:\Users\DELL\tuto-vscode\connectedServers\obj\Debug\net9.0\refint\connectedServers.dll
+C:\Users\DELL\tuto-vscode\connectedServers\obj\Debug\net9.0\connectedServers.pdb
+C:\Users\DELL\tuto-vscode\connectedServers\obj\Debug\net9.0\connectedServers.genruntimeconfig.cache
+C:\Users\DELL\tuto-vscode\connectedServers\obj\Debug\net9.0\ref\connectedServers.dll
